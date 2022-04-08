@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu repo [Kolduyoruz](www.kodluyoruz.dev) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor. 
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor. 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığın link gelecek.)
 `git clone https://github.com/nusretmalli/kodluyoruzilkrepo.git`
@@ -24,4 +24,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
-
+[Patika](https://www.patika.dev/tr)
